@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "vacancy-parser"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "*"
+
+[tool.poetry.dev-dependencies]
+pytest = "*"
